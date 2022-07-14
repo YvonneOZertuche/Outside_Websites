@@ -1,0 +1,11 @@
+ #Hero attacks goblin
+ 
+goblin.health -= hero.power
+print(f'You do {hero.power} damage to the goblin.')
+
+  if goblin.health <= 0:
+    print("The goblin is dead.")
+  elif raw_input == "2":
+    pass
+  elif raw_input == "3":
+    print("Goodbye.")
