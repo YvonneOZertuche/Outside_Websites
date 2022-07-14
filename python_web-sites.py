@@ -7,3 +7,5 @@ https://diveintopython3.problemsolving.io/ #--->
 
 
 Changes
+
+Clarion - makes it easy for non-developers, and developers of all skill levels to create database driven apps in minutes...because generates the code for you
